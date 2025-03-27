@@ -1,0 +1,10 @@
+README.md
+setup.py
+DiabetesPredictor/__init__.py
+DiabetesPredictor/diabetesmodel.py
+DiabetesPredictor.egg-info/PKG-INFO
+DiabetesPredictor.egg-info/SOURCES.txt
+DiabetesPredictor.egg-info/dependency_links.txt
+DiabetesPredictor.egg-info/requires.txt
+DiabetesPredictor.egg-info/top_level.txt
+tests/test_diabetes_model.py

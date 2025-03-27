@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: DiabetesPredictor
+Version: 0.0.1
+Summary: A simple diabetes prediction model using Random Forest
+Author: Steffi Poliwoda
+Author-email: girlsjustwannahavecode@gmail.com
+Requires-Dist: scikit-learn
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary
